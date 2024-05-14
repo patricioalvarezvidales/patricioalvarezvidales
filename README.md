@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Development Engineering Student</h3>
 
 - 🌱 I’m currently learning **Computer Science:** C, Arrays, Algorithms, Memory, Data Structures, Python, Artificial Intelligence, SQL, HTML, CSS, JavaScript, Flask, Cybersecurity.
-  **Full-Stack Web Development:** PHP, SQL, MySQL, OOP, MVC, Laravel 10, Symfony 6, WordPress +, HTML & CSS
+- 🌱 I’m currently learning **Full-Stack Web Development:** PHP, SQL, MySQL, OOP, MVC, Laravel 10, Symfony 6, WordPress +, HTML & CSS.
 
 - 💬 Ask me about **Python, Java, C, C#, JavaScript**
 
