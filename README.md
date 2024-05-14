@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Patricio Alvarez Vidales</h1>
 <h3 align="center">A passionate Software Development Engineering Student</h3>
 
-- 🌱 I’m currently learning **Computer Science:** C, Arrays, Algorithms, Memory, Data Structures, Python, Artificial Intelligence, SQL, HTML, CSS, JavaScript, Flask, Cybersecurity.
-- 🌱 I’m currently learning **Full-Stack Web Development:** PHP, SQL, MySQL, OOP, MVC, Laravel 10, Symfony 6, WordPress +, HTML & CSS.
+- 🦾 I’m currently learning **Computer Science: C, Arrays, Algorithms, Memory, Data Structures, Python, Artificial Intelligence, SQL, HTML, CSS, JavaScript, Flask, Cybersecurity.**
+- 🌐 I’m currently learning **Full-Stack Web Development: PHP, SQL, MySQL, OOP, MVC, Laravel 10, Symfony 6, WordPress +, HTML & CSS.**
+- ♻ I’m currently learning **DevOps Methodology: Operations and Development, IaC and Safety, Kubernetes and Monitoring**
+- ✅ I’m currently learning **Total Quality: Lean Six Sigma Yellow & Green Belt, Quality Management, Process Optimization Mehodology (DMAIC), Lean manufacturing**
 
 - 💬 Ask me about **Python, Java, C, C#, JavaScript**
 
